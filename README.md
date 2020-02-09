@@ -1,10 +1,10 @@
 # Modelos de ML
 Este repositorio trata de resolver problemas de ML usando diferentes algoritmos presentes en la librería scikit-learn de Python. Las técnicas que se cubren aquí son:
 
-* ![Vecinos más cercanos (KNN).](Nearest_Neighbors).
-* ![Árboles de decisión](Decision_Trees).
-* ![Máquinas de Soporte Vectorial](Support_Vector_Machines).
-* ![Redes neuronales](Neural_Networks).
+* ![Vecinos más cercanos (KNN).](KNN).
+* ![Árboles de decisión](Árboles de decisión).
+* ![Máquinas de Soporte Vectorial](Máquinas de Soporte Vectorial).
+* ![Redes neuronales](Redes Neuronales).
 
 Por cada uno de estos algoritmos vamos a resolver tres problemas diferentes:
 
