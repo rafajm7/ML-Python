@@ -2,9 +2,9 @@
 Este repositorio trata de resolver problemas de ML usando diferentes algoritmos presentes en la librería scikit-learn de Python. Las técnicas que se cubren aquí son:
 
 * ![Vecinos más cercanos (KNN).](KNN).
-* ![Árboles de decisión](Árboles de decisión).
-* ![Máquinas de Soporte Vectorial](Máquinas de Soporte Vectorial).
-* ![Redes neuronales](Redes Neuronales).
+* ![Árboles de decisión](Árboles_de_decisión).
+* ![Máquinas de Soporte Vectorial](SVM).
+* ![Redes neuronales](Redes_Neuronales).
 
 Por cada uno de estos algoritmos vamos a resolver tres problemas diferentes:
 
